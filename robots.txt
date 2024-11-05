@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osifuuja.github.io/ByC/sitemap_index.txt
+Sitemap: https://osifuuja.github.io/WXd/sitemap_index.txt
+Sitemap: https://osifuuja.github.io/bpl/sitemap_index.txt
+Sitemap: https://osifuuja.github.io/gFo/sitemap_index.txt
